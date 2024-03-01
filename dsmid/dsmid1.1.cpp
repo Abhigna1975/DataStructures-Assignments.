@@ -65,7 +65,7 @@ In summary, while linked lists are suitable for dynamic updates and memory effic
 The choice between linked lists and binary trees depends on the specific requirements and use cases of the inventory management system.*/
 
 //Here's the complete C++ code for the linked list implementation with dynamic user input:
-//
+
 #include <iostream>
 #include <string>
 
